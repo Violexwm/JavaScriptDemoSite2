@@ -38,7 +38,7 @@ nav {
 
 /* default navigation */
 nav a {
-  background-color: #BAD7F2;
+  background-color: #FAFAFA;
   color: white;
   text-decoration: none;
   padding: 10px 20px;
@@ -47,11 +47,11 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #BAD7F2;
+  background-color: #FAFAFA;
 }
 
 nav a.active {
-  background-color: #BAD7F2;
+  background-color: #FAFAFA;
 }
 
 main {
