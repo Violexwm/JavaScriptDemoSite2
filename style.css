@@ -10,7 +10,7 @@ additional comments
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f3f3f3;
+  background-color: #BB8588;
 }
 
 /*==========content============== */
@@ -21,7 +21,7 @@ main {
 
 /*==========navigation============== */
 nav {
-  background-color: #364978;
+  background-color: #700548;
   padding: 10px 0;
   
   /*flexible box layout see: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout */
@@ -38,7 +38,7 @@ nav {
 
 /* default navigation */
 nav a {
-  background-color: #5D6272;
+  background-color: #BAD7F2;
   color: white;
   text-decoration: none;
   padding: 10px 20px;
@@ -47,11 +47,11 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #FAA1A1;
+  background-color: #BAD7F2;
 }
 
 nav a.active {
-  background-color: #98AFE9;
+  background-color: #BAD7F2;
 }
 
 main {
